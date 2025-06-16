@@ -34,3 +34,5 @@ I hold a PhD from the Department of Aerospace Information Engineering at Konkuk 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=hmtQGt0AAAAJ)
 - [ORCID](https://orcid.org/0000-0001-5076-7689)
 - [LinkedIN](https://www.linkedin.com/in/maximtyan/)
+- WOS ResearcherID: D-6652-2011
+- Scopus ID: 55805366800
