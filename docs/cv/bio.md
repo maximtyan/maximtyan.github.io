@@ -94,8 +94,9 @@ permalink: /bio
 
 ### Invited lectures, seminars and keynote presentations
 
-1. "Advanced air mobility. Concepts, Design Challenges and Future Operations", SRM University, India, 2023
-2. "Digital Twin. Main Principles and Concepts. Example of UAM Operational DT", SRM University, India, 2023
+1. "Digital Twin Technology for Aerospace: Challenges and Opportunities", International Symposium on AAM Digital Twin Technology, Jeju, Korea, 2025
+1. "Advanced air mobility. Concepts, Design Challenges and Future Operations", International Conference on Recent Trends in Data Science and Its Applications, Chennai, India, 2023
+2. "Digital Twin. Main Principles and Concepts. Example of UAM Operational DT", SRM University, Chennai, India, 2023
 3. "Advanced Optimization Methods for Aircraft Design", Toronto Metropolitan University (Ryerson University), Canada, 2023
 4. "How to write a good journal paper", Konkuk University, Korea, 2023
 5. "Introduction to UAV Design", Tashkent State Technical University, Uzbekistan, 2021
