@@ -90,6 +90,16 @@ permalink: /bio
   - Research team leader
   - Researcher
 
+## Academic Guidance
+
+### New Uzbekistan University
+
+- **2025** Mechanical Engineering: Guided and mentored 10 students, with 2 achieving Top 10 ranking in their university cohort
+
+### Konkuk University
+
+- Supervised 2 PhD and 5 MSc students
+
 ## Presentations
 
 ### Invited lectures, seminars and keynote presentations
