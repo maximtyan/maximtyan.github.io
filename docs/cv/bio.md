@@ -94,7 +94,8 @@ permalink: /bio
 
 ### New Uzbekistan University
 
-- **2025** Mechanical Engineering: Guided and mentored 10 students, with 2 achieving Top 10 ranking in their university cohort
+- **2025** Mechanical Engineering
+  - Guided and mentored 10 students, with 2 achieving Top 10 ranking in their university cohort
 
 ### Konkuk University
 
