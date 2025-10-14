@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: maxim-crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal page
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an aerospace engineer with over 15 years of experience in both academia and industry. My expertise primarily lies in Aircraft Design and Development, covering areas such as systems engineering, multidisciplinary analysis, optimization, electric and hybrid propulsion systems, flight simulation, certification, and digital twin technologies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My team and I are dedicated to advancing research in [Advanced Air Mobility](https://www.nasa.gov/mission/aam/) (AAM). We develop innovative concepts for electric and hybrid aircraft, develop methodologies for the initial sizing of aircraft with unconventional configurations, create integrated analysis, design, and optimization frameworks, and develop flight simulation and digital twin software. Essentially, we specialize in creating tools that facilitate the development of AAM aircraft, from analyzing user requirements to the preliminary design stages.
+
+I hold a PhD from the Department of Aerospace Information Engineering at Konkuk University in Korea. Throughout my career, I have participated in over 20 international and domestic (Korean) projects, with a total budget exceeding 25 million USD.
