@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
@@ -15,13 +16,6 @@ nav_order: 2
 
 <div class="publications">
 
-## Journal Publications
-
 {% bibliography --file journal %}
-
-
-## Conference Publications
-
-{% bibliography --file conference %}
 
 </div>
