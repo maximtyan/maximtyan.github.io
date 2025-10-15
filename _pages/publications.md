@@ -13,13 +13,17 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="publications">
-
 ## SCI/SCIE Journals
+
+<div class="publications">
 
 {% bibliography --file journal.bib%}
 
+</div>
+
 ## Conferences
+
+<div class="publications">
 
 {% bibliography --file conference.bib%}
 
