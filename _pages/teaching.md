@@ -11,8 +11,16 @@ nav_order: 2
 
 ### Undergraduate
 
-- MENG310: Computational Solid and Fluid Mechanics
-  - Fall 2024, Fall 2025
+#### Computational Solid and Fluid Mechanics
+
+- **Course Code:** MENG310
+- **Semester:** Fall 2025, Fall 2026
+
+#### Engineering in Society
+
+- **Course Code:** MENG120
+- **Semester:** Fall 2025, Fall 2026
+
 - MENG120: Engineering in Society
   - Fall 2024, Fall 2025
 - MENG331: Automatic Control
