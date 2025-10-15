@@ -12,22 +12,28 @@ nav_order: 2
 ### Undergraduate
 
 - MENG310: **Computational Solid and Fluid Mechanics**
-  Fall 2024, Fall 2025
+
+Fall 2024, Fall 2025
 
 - MENG120: **Engineering in Society**
-  Fall 2024, Fall 2025
+
+Fall 2024, Fall 2025
 
 - MENG331: Automatic Control
-  - Spring 2025
-- MENG401: Engineering Mechanics 3 (Dynamics)
-  - Co-taught with [Prof. Heiko Topol](https://heikotopol.github.io/)
-  - Spring 2025
+
+Spring 2025
+
+- MENG401: **Engineering Mechanics 3 (Dynamics)**
+
+Co-taught with [Prof. Heiko Topol](https://heikotopol.github.io/)
+
+Spring 2025
 
 ## [Konkuk University, 건국대학교](https://www.konkuk.ac.kr/konkuk/index.do)
 
 ### Graduate
 
-- Aircraft Design Project
+- **Aircraft Design Project**
   - 2022: Regional Electric Aircraft
   - 2020\*: Hydrogen Fuel Cell Powered eVTOL-UAV
   - 2019\*: Hydrogen Fuel Cell Powered eVTOL-UAV
