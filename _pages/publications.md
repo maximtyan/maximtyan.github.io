@@ -15,6 +15,12 @@ nav_order: 2
 
 <div class="publications">
 
+## SCI/SCIE Journals
+
 {% bibliography --file journal.bib%}
+
+## Conferences
+
+{% bibliography --file conference.bib%}
 
 </div>
