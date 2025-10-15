@@ -9,13 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-{% include bib_search.liquid %}
-
-# Publications
-
-- [SCI/SCIE Journals](#sciscie-journals)
-- [Conferences](#conferences)
+1. [SCI/SCIE Journals](#sci-scie-journals)
+2. [Conferences](#conferences)
 
 ---
 
