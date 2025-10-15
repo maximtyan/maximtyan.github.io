@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -45,9 +45,10 @@ nav_order: 6
   - 2024: eVTOL-UAM Aircraft
   - 2023: Regional Hybrid Hydrogen-Electric Aircraft
   - 2021: eVTOL-UAM Aircraft
-  - 2016*: eVTOL-UAV
+  - 2016\*: eVTOL-UAV
 - Aerospace Configuration Design, 항공우주형상설계
   - 2012\*, 2012\*, 2015\*, 2020\*
 
 ---
+
 \* Teaching Assistant
