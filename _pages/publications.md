@@ -12,7 +12,7 @@ nav_order: 2
 1. [SCI/SCIE Journals](#sci-scie-journals)
 2. [Other Journals](#non-sci-journals)
 3. [Patents](#patents)
-2. [Conferences](#conferences)
+4. [Conferences](#conferences)
 
 ---
 
