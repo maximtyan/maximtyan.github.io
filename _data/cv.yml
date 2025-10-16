@@ -2,31 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Maxim Tyan (장막심)
+    - name: Birth Year
+      value: 1988
     - name: Languages
-      value: English, German
+      value: Russian (Native), English (Fluent), Korean (Fluent), Uzbek (Elementary)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Integrated MSc-PhD
+      institution: Konkuk University
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Department of Aerospace Information Engineering (항공우주정보시스템공학과)
+        - Advisor Prof. Jae-Woo Lee (이재우)
+    - title: BSc
+      institution: Tashkent State Technical University
+      year: 2009
       description:
-        - Description 1.
-        - Description 2.
+        - Aerospace Department
+        - Advisor Prof. Yermakova L.S. (Ермакова Л.С.)
 
 - title: Experience
   type: time_table
