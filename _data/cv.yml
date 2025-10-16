@@ -2,7 +2,7 @@
   type: list
   contents:
     - Associate Professor of Aerospace and Mechanical Engineering
-    - [New Uzbekistan University](https://newuu.uz)
+     - [New Uzbekistan University](https://newuu.uz)
 
 - title: Personal Information
   type: map
@@ -23,7 +23,7 @@
         - Advisor Prof. Jae-Woo Lee (이재우)
         - Integrated MSc-PhD program
     - title: BSc, Aerospace Engineering
-      institution: Tashkent State Technical University
+      institution: Tashkent State Technical University, 
       year: 2009
       location: Tashkent, Uzbekistan
       description:
