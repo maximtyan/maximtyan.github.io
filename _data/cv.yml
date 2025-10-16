@@ -1,29 +1,31 @@
-- title: General Information
+- title: Maxim Tyan
+  type: list
+  contents:
+    - Associate Professor of Aerospace and Mechanical Engineering
+    - [New Uzbekistan University](https://newuu.uz)
+
+- title: Personal Information
   type: map
   contents:
-    - name: Full Name
-      value: Maxim Tyan (장막심, Максим Тян)
-    - name: Birth Year
+    - name: Birth year
       value: 1988
     - name: Languages
-      value: |
-        Russian (Native)<br>
-        English (Fluent)<br>
-        Korean (Fluent)<br>
-        Uzbek (Elementary)
+      value: Russian (native), English (fluent), Korean (fluent), Uzbek (elementary)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD, Aerospace Information Engineering
-      institution: Konkuk University, Seoul, Korea
+      institution: Konkuk University
       year: 2015
+      location: Seoul, Korea
       description:
         - Advisor Prof. Jae-Woo Lee (이재우)
         - Integrated MSc-PhD program
     - title: BSc, Aerospace Engineering
-      institution: Tashkent State Technical University, Tashkent, Uzbekistan
+      institution: Tashkent State Technical University
       year: 2009
+      location: Tashkent, Uzbekistan
       description:
         - Advisor Prof. Yermakova L.S. (Ермакова Л.С.)
 
