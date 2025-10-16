@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Associate Professor of Aerospace and Mechanical Engineering
 
