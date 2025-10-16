@@ -2,11 +2,15 @@
   type: map
   contents:
     - name: Full Name
-      value: Maxim Tyan (장막심)
+      value: Maxim Tyan (장막심, Максим Тян)
     - name: Birth Year
       value: 1988
     - name: Languages
-      value: Russian (Native), English (Fluent), Korean (Fluent), Uzbek (Elementary)
+      value: |
+        Russian (Native)<br>
+        English (Fluent)<br>
+        Korean (Fluent)<br>
+        Uzbek (Elementary)
 
 - title: Education
   type: time_table
