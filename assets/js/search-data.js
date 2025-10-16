@@ -469,25 +469,25 @@ ninja.data = [{
           window.open("mailto:%6D.%74%79%61%6E@%6E%65%77%75%75.%75%7A", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/maximtyan# your LinkedIn user name", "_blank");
+          window.open("https://scholar.google.com/citations?user=hmtQGt0AAAAJ", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0001-5076-7689# your ORCID ID", "_blank");
+          window.open("https://orcid.org/0000-0001-5076-7689", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=hmtQGt0AAAAJ", "_blank");
+          window.open("https://www.linkedin.com/in/maximtyan", "_blank");
         },
       },{
       id: 'light-theme',
