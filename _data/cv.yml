@@ -13,10 +13,10 @@
       value: Tashkent, Uzbekistan
     - name: Languages
       value: |
-      Russian (native)<br>
-      English (fluent)<br>
-      Korean (fluent)<br>
-      Uzbek (elementary)
+        Russian (Native)<br>
+        English (Fluent)<br>
+        Korean (Fluent)<br>
+        Uzbek (Elementary)
 
 - title: Education
   type: time_table
