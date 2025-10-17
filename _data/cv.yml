@@ -59,3 +59,15 @@
       institution: Engineering Center "Muhandis Servis"
       location: Tashkent, Uzbekistan
       year: Jan 2007 - Feb 2010
+
+- title: Research Interests
+  type: list
+  contents:
+  - Multidisciplinary Design Optimization
+  - Design under uncertainties
+  - Surrogate based optimization, sampling methods
+  - Aircraft design (electric, hydrogen powered, general aviation, eVTOL, UAV, UAM)
+  - Aircraft digital twin, flight simulation and control
+  - Software development (Python, C, C++, Matlab, VBA)
+  - Software integration and automation (CAD, CFD, Simulation and Control)
+
