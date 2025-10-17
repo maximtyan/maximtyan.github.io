@@ -7,7 +7,43 @@ nav: true
 nav_order: 3
 ---
 
-## [New Uzbekistan University](https://newuu.uz/)
+## MENG310 Computational Solid and Fluid Mechanics
+
+- Undergraduate
+- New Uzbekistan University
+- Fall 2024, 2025
+
+## MENG120 Engineering in Society**
+
+- Undergraduate
+- New Uzbekistan University
+- Fall 2024, 2025
+
+### MENG310 Computational Solid and Fluid Mechanics
+
+- Undergraduate
+- New Uzbekistan University
+- Fall 2024, 2025
+
+### MENG120 Engineering in Society**
+
+- Undergraduate
+- New Uzbekistan University
+- Fall 2024, 2025
+
+## New Uzbekistan University
+
+### MENG310 Computational Solid and Fluid Mechanics
+
+- Undergraduate
+- New Uzbekistan University
+- Fall 2024, 2025
+
+### MENG120 Engineering in Society**
+
+- Undergraduate
+- New Uzbekistan University
+- Fall 2024, 2025
 
 ### Undergraduate
 
