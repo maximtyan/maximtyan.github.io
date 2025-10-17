@@ -1,8 +1,8 @@
 - title: Maxim Tyan
   type: list
-  contents:
-  - Associate Professor of Aerospace and Mechanical Engineering
-  - New Uzbekistan University
+  contents: |
+  Associate Professor of Aerospace and Mechanical Engineering<br>
+  New Uzbekistan University
 
 - title: Personal Information
   type: map
@@ -70,4 +70,31 @@
   - Aircraft digital twin, flight simulation and control
   - Software development (Python, C, C++, Matlab, VBA)
   - Software integration and automation (CAD, CFD, Simulation and Control)
+
+- title: Awards and Honors
+  type: time_table
+  contents:
+    - title: Best Paper Award
+      year: 2022
+      institution: The Korean Society for Aeronautical and Space Sciences
+      description: >
+        Woon Jae Won, Wonkyong Kim, Maxim Tyan, and Jae-Woo Lee.  
+        “eVTOL 항공기의 착륙장치 지상하중해석 기법 연구.”
+    - title: Best Paper Award
+      year: 2017
+      institution: The Korean Society for Aeronautical and Space Sciences
+      description: >
+        Le Viet Thang Nguyen, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee.  
+        “Development of a Validation Procedure for JSBSim Flight Dynamic Model Using Light Aircraft Flight Test Data.”
+    - title: Best Paper Award
+      year: 2016
+      institution: The Korean Society for Aeronautical and Space Sciences
+      description: >
+        Yungki Jung, Nadhie Juliawan, Nhu Van Nguyen, Maxim Tyan, Sangho Kim, and Jae-Woo Lee.  
+        “Ducted Fan Shape Optimization using Genetic Algorithm.”
+    - title: Konkuk Academy Award
+      institution: Konkuk University
+      year: 2015
+    - title: Brain Korea 21 Scholarship
+      year: 2010–2013
 
