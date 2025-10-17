@@ -98,3 +98,23 @@
     - title: Brain Korea 21 Scholarship
       year: 2010–2013
 
+- title: Projects
+  type: list
+  contents:
+  - 20+ international and domestic (Korean) Projects
+  type: map
+  contents:
+    - name: Total funding
+      value: over USD 25M
+    - name: Funded by
+      value: |
+        European partnership programs (Eurostars, Eureka clusters)
+        Korean government (National Research Foundation, Ministry of Land Infrastructure and Transport, Ministry of Education)
+        Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)
+    - name: Roles
+      value:
+        Project initiator
+        Project manager
+        Research team leader
+        Researcher
+
