@@ -1,4 +1,4 @@
-- title: ""
+- title: Maxim Tyan
   type: list
   contents:
   - Associate Professor of Aerospace and Mechanical Engineering
@@ -9,23 +9,28 @@
   contents:
     - name: Birth year
       value: 1988
-    - name: location
+    - name: Location
       value: Tashkent, Uzbekistan
     - name: Languages
-      value: Russian (native), English (fluent), Korean (fluent), Uzbek (elementary)
+      value: |
+      Russian (native)<br>
+      English (fluent)<br>
+      Korean (fluent)<br>
+      Uzbek (elementary)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Aerospace Information Engineering
+    - title: PhD, Aerospace Engineering
       institution: Konkuk University
       year: 2015
       location: Korea
       description:
         - Advisor Prof. Jae-Woo Lee (이재우)
         - Integrated MSc-PhD program
+        - Department of Aerospace Information Engineering (항공우주정보시스템공학과)
     - title: BSc, Aerospace Engineering
-      institution: Tashkent State Technical University, 
+      institution: Tashkent State Technical University
       year: 2009
       location: Uzbekistan
       description:
