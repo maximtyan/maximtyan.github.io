@@ -99,23 +99,14 @@
       year: 2010–2013
 
 - title: Projects
-  type: map
-  contents:
-    - name: ""
-      value: 20+ international and domestic (Korean) projects
-    - name: Total funding
-      value: over USD 25M
-    - name: Funded by
-      value: |
-        - European partnership programs (Eurostars, Eureka Clusters)
-        - Korean government (National Research Foundation, Ministry of Land, Infrastructure and Transport, Ministry of Education)
-        - Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)
-    - name: Roles
-      value: |
-        - Project initiator
-        - Project manager
-        - Research team leader
-        - Researcher
+  type: list
+  contents: |
+    20+ international and domestic (Korean) projects<br>
+    Over USD 25M of total funding<br>
+    Funded by: European partnership programs (Eurostars, Eureka Clusters)
+    Korean government (National Research Foundation, Ministry of Land, Infrastructure and Transport, Ministry of Education)
+    Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)<br>
+    Roles: project initiator, project manager, research team leader, researcher
 
 
 - title: Invited Talks and Seminars
@@ -157,3 +148,20 @@
       institution: Konkuk University
       location: Seoul, Korea
       year: 2018
+
+
+- title: Lecture Series and Workshops
+  type: time_table
+  contents:
+    - title: Multidisciplinary analysis and design of an aircraft
+      year: 2023
+    - title: Surrogate modeling. Advanced methods and Applications
+      year: 2020
+    - title: Aircraft flight simulation
+      year: 2020
+    - title: Aircraft flight simulation
+      year: 2017
+    - title: MATLAB Programing
+      year: 2016
+    - title: OOP and Python Programing
+      year: 2016
