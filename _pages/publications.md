@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 1. [SCI/SCIE Indexed Journals](#sci-scie-journals)
-2. [Other Peer-Reviewed Journals](#other-peer-reviewed-journals)
+2. [Other Peer-Reviewed Journals](#other-journals)
 3. [Patents](#patents)
 4. [Conferences](#conferences)
 
