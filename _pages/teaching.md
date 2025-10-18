@@ -31,7 +31,6 @@ nav_order: 3
 ### Aircraft Design Project
 
 - Grad., Konkuk University
-- Semesters:
   - 2022: Regional Electric Aircraft
   - 2020\*: Hydrogen Fuel Cell Powered eVTOL-UAV
   - 2019\*: Hydrogen Fuel Cell Powered eVTOL-UAV

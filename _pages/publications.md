@@ -9,14 +9,16 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-1. [SCI/SCIE Indexed Journals](#sci-scie-indexed-journals)
+1. [SCI/SCIE Indexed Journals](#sci-scie-journals)
 2. [Other Peer-Reviewed Journals](#other-peer-reviewed-journals)
 3. [Patents](#patents)
 4. [Conferences](#conferences)
 
 ---
 
-## SCI/SCIE Indexed Journals
+## SCI/SCIE Journals
+
+International Peer-Reviewed Journals (SCI/SCIE Indexed)
 
 <div class="publications">
 {% bibliography --file journal.bib %}
@@ -24,7 +26,9 @@ nav_order: 2
 
 ---
 
-## Other Peer-Reviewed Journals
+## Other Journals
+
+Other Peer-Reviewed Journals
 
 <div class="publications">
 {% bibliography --file journal_nonsci.bib %}
@@ -41,6 +45,8 @@ nav_order: 2
 ---
 
 ## Conferences
+
+International and Domestic (Korea, Uzbekistan)
 
 <div class="publications">
 {% bibliography --file conference.bib %}
