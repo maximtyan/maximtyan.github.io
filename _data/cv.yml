@@ -1,16 +1,16 @@
 - title: Maxim Tyan
-  type: list
-  contents: |
-    **Associate Professor of Aerospace and Mechanical Engineering**<br>
-    **New Uzbekistan University**
+  type: time_table
+  contents:
+    - title: Associate Professor of Aerospace and Mechanical Engineering
+      institution: New Uzbekistan University
+      year: ""
+      location: Tashkent
 
 - title: Personal Information
   type: map
   contents:
     - name: Birth year
       value: 1988
-    - name: Location
-      value: Tashkent, Uzbekistan
     - name: Languages
       value: |
         Russian (Native)<br>
