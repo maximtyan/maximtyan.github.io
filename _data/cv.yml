@@ -4,7 +4,7 @@
     - title: Associate Professor of Aerospace and Mechanical Engineering
       institution: New Uzbekistan University
       year: ""
-      location: Tashkent
+      location: Tashkent, Uzbekistan
 
 - title: Personal Information
   type: map
@@ -24,7 +24,7 @@
     - title: PhD, Aerospace Engineering
       institution: Konkuk University
       year: 2015
-      location: Korea
+      location: Seoul, Korea
       description:
         - Advisor Prof. Jae-Woo Lee (이재우)
         - Integrated MSc-PhD program
@@ -32,7 +32,7 @@
     - title: BSc, Aerospace Engineering
       institution: Tashkent State Technical University
       year: 2009
-      location: Uzbekistan
+      location: Tashkent, Uzbekistan
       description:
         - Advisor Prof. Yermakova L.S. (Ермакова Л.С.)
 
@@ -41,11 +41,11 @@
   contents:
     - title: Associate Professor, Mechanical Engineering
       institution: New Uzbekistan University
-      location: Tashkent, Uzbekistan
+      location: Uzbekistan
       year: Aug 2024 -
     - title: Assistant Professor, Aerospace Engineering
       institution: Konkuk University
-      location: Seoul, Korea
+      location: South Korea
       year: Apr 2024 - Aug 2024
     - title: Research Professor
       institution: Konkuk Aerospace Design Airworthiness Institute
