@@ -24,10 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal page
+I am an **Associate Professor of Mechanical Engineering** at [New Uzbekistan University](https://newuu.uz/en/employee/category/faculty-members?department_id=24). I joined the university in 2024 after fifteen years in the Department of **Aerospace Engineering** at Konkuk University in South Korea, where I held various positions ranging from researcher to assistant professor.
 
-I am an aerospace engineer with over 15 years of experience in both academia and industry. My expertise primarily lies in Aircraft Design and Development, covering areas such as systems engineering, multidisciplinary analysis, optimization, electric and hybrid propulsion systems, flight simulation, certification, and digital twin technologies.
+My research interests include aircraft design and development, as well as multidisciplinary design and optimization. I have been involved in numerous projects spanning different stages of aircraft development, from market analysis and conceptual design to flight test, simulation, and certification. For these projects, my team and I have developed numerous analysis, design, optimization, and simulation software tools. These projects have covered a wide range of aircraft types, including manned general aviation aircraft, electric and hydrogen-powered eVTOLs, missiles, and UAVs.
 
-My team and I are dedicated to advancing research in [Advanced Air Mobility](https://www.nasa.gov/mission/aam/) (AAM). We develop innovative concepts for electric and hybrid aircraft, develop methodologies for the initial sizing of aircraft with unconventional configurations, create integrated analysis, design, and optimization frameworks, and develop flight simulation and digital twin software. Essentially, we specialize in creating tools that facilitate the development of AAM aircraft, from analyzing user requirements to the preliminary design stages.
-
-I hold a PhD from the Department of Aerospace Information Engineering at Konkuk University in Korea. Throughout my career, I have participated in over 20 international and domestic (Korean) projects, with a total budget exceeding 25 million USD.
+I hold a Ph.D. in Aerospace Information Engineering from Konkuk University, South Korea. Throughout my career, I have contributed to more than twenty international and domestic (Korean) research projects, with a total funding volume exceeding 25 million USD.
