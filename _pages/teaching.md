@@ -7,25 +7,29 @@ nav: true
 nav_order: 3
 ---
 
-### MENG310 - Computational Solid and Fluid Mechanics
+### Computational Solid & Fluid Mechanics
 
 - Undergrad., New Uzbekistan University
+  - Code: MENG310
   - Fall 2024, Fall 2025
 
-### MENG120 - Engineering in Society
+### Engineering in Society
 
 - Undergrad., New Uzbekistan University
+  - Code: MENG120
   - Fall 2024, Fall 2025
 
-### MENG331 - Automatic Control
+### Automatic Control
 
 - Undergrad., New Uzbekistan University
+  - Code: MENG331
   - Spring 2025
 
-### MENG401: Engineering Mechanics 3
+### Engineering Mechanics 3
 
 - Co-taught with [Prof. Heiko Topol](https://heikotopol.github.io/)
 - Undergrad., New Uzbekistan University
+  - Code: MENG401
   - Spring 2025
 
 ### Aircraft Design Project
