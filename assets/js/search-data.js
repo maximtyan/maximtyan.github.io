@@ -16,12 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-talks",
+          title: "Talks",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -68,7 +82,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-design-under-uncertainties",
+          title: 'Design under Uncertainties',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/design_under_uncertainty/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
