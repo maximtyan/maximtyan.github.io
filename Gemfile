@@ -1,8 +1,5 @@
 source 'https://rubygems.org'
 
-# Force ActiveSupport < 8 so jemoji/html-pipeline do not pull Rails 8
-gem "activesupport", "~> 7.1"
-
 gem 'jekyll'
 
 # Core plugins that directly affect site building
