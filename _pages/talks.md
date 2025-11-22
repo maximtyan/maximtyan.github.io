@@ -14,17 +14,23 @@ nav_order: 4
 3. [**Workshops**](#workshops)
 4. Conferences are in [Publications](https://maximtyan.github.io/publications/#conferences)
 
+---
+
 ## Seminars & Invited Lectures
 
 <div class="publications">
 {% bibliography --file seminars.bib %}
 </div>
 
+---
+
 ## Keynote Speeches
 
 <div class="publications">
 {% bibliography --file keynote.bib %}
 </div>
+
+---
 
 ## Workshops
 
