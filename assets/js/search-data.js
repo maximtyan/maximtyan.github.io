@@ -47,7 +47,12 @@ ninja.data = [{
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "projects-project-one",
+          section: "News",},{id: "projects-system-identification-for-uav-digital-twin",
+          title: 'System Identification for UAV Digital Twin',
+          description: "project funded by New Uzbekistan University",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ai_sys_id/";
+            },},{id: "projects-project-one",
           title: 'Project One',
           description: "with background image",
           section: "Projects",handler: () => {
