@@ -9,7 +9,8 @@ nav_order: 4
 
 <!-- _pages/talks.md -->
 
-Summary on seminars and invited talks. Conferences are listed in the Publications section.
+- Seminars, keynote presentations, and invited talks.
+- Conferences are in [Publications](https://maximtyan.github.io/publications/#conferences) section
 
 ## Seminars
 
