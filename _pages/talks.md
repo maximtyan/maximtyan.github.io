@@ -12,8 +12,20 @@ nav_order: 4
 - Seminars, keynote presentations, and invited talks.
 - Conferences are in [Publications](https://maximtyan.github.io/publications/#conferences) section
 
-## Seminars
+## Seminars & Invited Lectures
 
 <div class="publications">
-{% bibliography --file talks.bib %}
+{% bibliography --file seminars.bib %}
+</div>
+
+## Keynote Speeches
+
+<div class="publications">
+{% bibliography --file keynote.bib %}
+</div>
+
+## Workshops
+
+<div class="publications">
+{% bibliography --file workshop.bib %}
 </div>
