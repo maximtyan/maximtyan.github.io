@@ -49,14 +49,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-system-identification-for-uav-digital-twin",
           title: 'System Identification for UAV Digital Twin',
-          description: "project funded by New Uzbekistan University",
+          description: "funded by NewUU",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai_sys_id/";
-            },},{id: "projects-project-one",
-          title: 'Project One',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/design_under_uncertainty/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
