@@ -37,3 +37,14 @@ nav_order: 4
 <div class="publications">
 {% bibliography --file workshop.bib %}
 </div>
+
+- 2023: Multidisciplinary analysis and design of an aircraft
+- 2020: Surrogate modeling. Advanced methods and Applications
+- 2020: Aircraft flight simulation. Automatic control
+- 2017: Aircraft flight simulation. Principles of modeling
+- 2016: Optimum Design
+- 2016: Surrogate Based Optimization
+- 2016: Flight simulation
+- 2016: MATLAB Programing
+- 2016: OOP and Python Programing
+- 2014: Aircraft performance analysis
