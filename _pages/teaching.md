@@ -23,7 +23,13 @@ nav_order: 5
 
 - Undergrad., New Uzbekistan University
   - Code: MENG331
-  - Spring 2025
+  - Spring 2025, Spring 2026
+ 
+### Optimization Theory
+
+- Undergrad., New Uzbekistan University
+  - Code: MATH233
+  - Spring 2026
 
 ### Engineering Mechanics 3
 
