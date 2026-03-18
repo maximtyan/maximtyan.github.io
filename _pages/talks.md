@@ -34,9 +34,7 @@ nav_order: 4
 
 ## Workshops
 
-<div class="publications">
-{% bibliography --file workshop.bib %}
-</div>
+Workshops on specific topics with hands-on practice, ranging from one full day to several weeks.
 
 - 2023: Multidisciplinary analysis and design of an aircraft
 - 2020: Surrogate modeling. Advanced methods and Applications
