@@ -53,3 +53,8 @@ scopus_id: 55805366800 # your profile on Scopus
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #  title: Custom Social
 #  url: https://www.alberteinstein.com/
+
+web_of_science:
+  logo: ai ai-clarivate
+  title: Web of Science
+  url: https://www.webofscience.com/wos/author/record/D-6652-2011
