@@ -55,6 +55,6 @@ scopus_id: 55805366800 # your profile on Scopus
 #  url: https://www.alberteinstein.com/
 
 web_of_science:
-  logo: ai ai-clarivate
+  logo: https://en.wikipedia.org/wiki/File:Clarivate.png
   title: Web of Science
   url: https://www.webofscience.com/wos/author/record/D-6652-2011
