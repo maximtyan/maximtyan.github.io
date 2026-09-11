@@ -16,14 +16,17 @@ nav_order: 3
 ---
 
 ## Journal Articles
-{% bibliography --file journals %}
+
+{% bibliography --file journal %}
 
 ---
 
 ## Conference Papers
-{% bibliography --file conferences %}
+
+{% bibliography --file conference %}
 
 ---
 
 ## Patents
-{% bibliography --file patents %}
+
+{% bibliography --file patent %}
