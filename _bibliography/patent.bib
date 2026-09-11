@@ -1,3 +1,9 @@
+% Cleaned for al-folio / Jekyll Scholar.
+% originalinfo stores original-language/archival metadata and is intentionally
+% not the standard note field, so CSL styles such as APA do not render it.
+% Add originalinfo to filtered_bibtex_keywords in _config.yml to hide it from
+% the optional raw BibTeX/details display as well.
+
 @patent{lee__2017,
   title = {System, Method for Robust Optimization Modeling and Computer Readable Record Medium Thereof},
   url = {https://patents.google.com/patent/KR101783015B1/en},
@@ -9,21 +15,7 @@
   month = oct,
   year = {2017},
   keywords = {fidelity, function, point, value, variable},
-  note = {[In Korean] Original title: 강건 최적 설계 시스템, 방법 및 컴퓨터 판독 가능한 기록매체. Original assignee: 건국대학교 산학협력단.},
-}
-
-@patent{nguyen__2022,
-  title = {Method and Device for Improving Accuracy of Six-Degree-of-Freedom Flight Simulation by Using Flight Test Data},
-  url = {https://patents.google.com/patent/WO2022145759A1/en},
-  nationality = {WO},
-  language = {ko},
-  assignee = {Konkuk University Industry Cooperation Foundation},
-  number = {WO2022145759A1},
-  author = {Nguyen, LV Thang and Tyan, Maxim and Lee, Jae-Woo and Jeon, Kwonsu},
-  month = jul,
-  year = {2022},
-  keywords = {aerodynamic, flight, flight test, simulation, test data},
-  note = {[In Korean] Original title: 비행시험 데이터를 이용한 6 자유도 비행 시뮬레이션 정확도 향상 방법 및 장치. Original assignee: 건국대학교 산학협력단. PCT publication; same invention family as KR102484249B1.},
+  originalinfo = {[In Korean] Original title: 강건 최적 설계 시스템, 방법 및 컴퓨터 판독 가능한 기록매체. Original assignee: 건국대학교 산학협력단.},
 }
 
 @patent{nguyen_method_2022,
@@ -38,7 +30,7 @@
   year = {2023},
   keywords = {aerodynamic, flight, flight test, simulation, test data},
   language = {ko},
-  note = {[In Korean] Original title: 비행시험 데이터를 이용한 6 자유도 비행 시뮬레이션 정확도 향상 방법 및 장치. Original assignee: 건국대학교 산학협력단. Korean grant; same invention family as WO2022145759A1.},
+  originalinfo = {[In Korean] Original title: 비행시험 데이터를 이용한 6 자유도 비행 시뮬레이션 정확도 향상 방법 및 장치. Original assignee: 건국대학교 산학협력단. Korean application: KR1020200189291A; application publication: KR20220096658A; PCT application: PCT/KR2021/018020; PCT publication: WO2022145759A1.},
 }
 
 @patent{tyan__2022,
@@ -48,11 +40,11 @@
   language = {ko},
   assignee = {Konkuk University Industry Cooperation Foundation},
   number = {KR102518768B1},
-  author = {Tyan, Maxim and Nguyen, LV Thang and Aye Aye Maw and Jeong, Gu Moon and Lee, Jae-Woo and Lee, Chiho},
+  author = {Tyan, Maxim and Nguyen, LV Thang and Maw, Aye Aye and Jeong, Gu Moon and Lee, Jae-Woo and Lee, Chiho},
   month = apr,
   year = {2023},
   keywords = {electric propulsion, flight, aerial vehicle, electric, unmanned aerial},
-  note = {[In Korean] Original title: 전기추진장치를 장착한 무인비행체의 고정밀 비행 시뮬레이션 장치 및 방법. Original assignee: 건국대학교 산학협력단.},
+  originalinfo = {[In Korean] Original title: 전기추진장치를 장착한 무인비행체의 고정밀 비행 시뮬레이션 장치 및 방법. Original assignee: 건국대학교 산학협력단.},
 }
 
 @patent{aye_aye_maw__2022,
@@ -66,28 +58,30 @@
   month = aug,
   year = {2022},
   keywords = {cost, generating, path, planning, state},
-  note = {[In Korean] Original title: 무인이동체를 위한 인공지능 기반의 경로 재계획 방법 및 장치. Original assignee: 건국대학교 산학협력단.},
+  originalinfo = {[In Korean] Original title: 무인이동체를 위한 인공지능 기반의 경로 재계획 방법 및 장치. Original assignee: 건국대학교 산학협력단.},
 }
 
 @patent{lee__2022,
   title = {Sizing Method and Device for Initial Design of a UAV Powered by a Hydrogen Fuel Cell and Battery},
+  url = {https://patents.google.com/patent/KR102674229B1/en},
   nationality = {KR},
+  assignee = {Konkuk University Industry Cooperation Foundation},
   author = {Lee, Jae-Woo and An, Jae-Hyun and Tyan, Maxim and Kwon, Do Youn and Jeon, Kwonsu},
   year = {2024},
-  keywords = {to read},
   number = {KR102674229B1},
   language = {ko},
-  url = {https://patents.google.com/patent/KR102674229B1/en},
-  note = {[In Korean] Original title: 수소연료전지를 적용한 무인기 초기 설계를 위한 사이징 방법 및 장치.},
+  originalinfo = {[In Korean] Original title: 수소연료전지를 적용한 무인기 초기 설계를 위한 사이징 방법 및 장치. Original assignee: 건국대학교 산학협력단.},
 }
 
 @patent{lee__2024,
   title = {Multi-Fidelity Aerodynamic Data Fusion Apparatus and Method Integrating Multiple Low-Fidelity Datasets},
+  url = {https://patents.google.com/?q=%2210-2024-0191657%22},
+  assignee = {Konkuk University Industry Cooperation Foundation},
   number = {10-2024-0191657},
   author = {Lee, Jae-Woo and Pham, Quang Vinh and Nguyen, Tuan and Tyan, Maxim},
   month = dec,
   year = {2024},
   nationality = {KR},
   language = {ko},
-  note = {[In Korean] Original title: 다중 저정밀도 데이터셋을 통합한 다중 정밀도 공기역학 데이터 융합 장치 및 방법. Patent application.},
+  originalinfo = {[In Korean] Original title: 다중 저정밀도 데이터셋을 통합한 다중 정밀도 공기역학 데이터 융합 장치 및 방법. Original assignee: 건국대학교 산학협력단. Patent application; no public grant/publication number verified as of 2026-09-11.},
 }
