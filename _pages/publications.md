@@ -9,29 +9,18 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
-1. [**SCI/SCIE Indexed Journals**](#sciscie-journals)
-2. [**Other Peer-Reviewed Journals**](#other-journals)
-3. [**Patents**](#patents)
-4. [**Conferences**](#conferences)
+1. [**Journals**](#sciscie-journals)
+2. [**Patents**](#patents)
+3. [**Conferences**](#conferences)
 
 ---
 
-## SCI/SCIE Journals
+##Journals
 
 International Peer-Reviewed Journals (SCI/SCIE Indexed)
 
 <div class="publications">
 {% bibliography --file journal.bib %}
-</div>
-
----
-
-## Other Journals
-
-Other Peer-Reviewed Journals
-
-<div class="publications">
-{% bibliography --file journal_nonsci.bib %}
 </div>
 
 ---
