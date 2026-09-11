@@ -9,15 +9,15 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
-1. [**Journals**](#sciscie-journals)
+1. [**Journals**](#journals)
 2. [**Patents**](#patents)
 3. [**Conferences**](#conferences)
 
 ---
 
-##Journals
+## Journals
 
-International Peer-Reviewed Journals (SCI/SCIE Indexed)
+International Peer-Reviewed Journals
 
 <div class="publications">
 {% bibliography --file journal.bib %}
