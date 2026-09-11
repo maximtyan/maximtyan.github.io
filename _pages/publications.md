@@ -15,28 +15,15 @@ nav_order: 3
 
 ---
 
-## Journals
+## Journal Articles
+{% bibliography --file journals %}
 
-International Peer-Reviewed Journals
+---
 
-<div class="publications">
-{% bibliography --file journal.bib %}
-</div>
+## Conference Papers
+{% bibliography --file conferences %}
 
 ---
 
 ## Patents
-
-<div class="publications">
-{% bibliography --file patent.bib %}
-</div>
-
----
-
-## Conferences
-
-International and Domestic (Korea, Uzbekistan)
-
-<div class="publications">
-{% bibliography --file conference.bib %}
-</div>
+{% bibliography --file patents %}
