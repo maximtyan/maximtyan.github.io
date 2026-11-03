@@ -1,0 +1,44 @@
+# Concise summaries for journal entries whose BibTeX records do not include an abstract.
+# These are displayed as fallback abstract text on the Publications page.
+
+maw_iada-rl_2021: >-
+  This study combines the iADA* anytime graph-search planner for global routing with deep reinforcement learning for local collision avoidance in autonomous UAV missions. Validation in AirSim with static and moving obstacles shows that the hybrid approach enables fast replanning while reacting to dynamic hazards.
+
+nguyen_enhancement_2021: >-
+  This work improves a light-aircraft six-degree-of-freedom simulation model using longitudinal flight-test data. Sensitivity analysis, model tuning, maximum-likelihood parameter estimation, and aerodynamic-database correction reduce discrepancies between simulated and measured responses and support certification-oriented validation.
+
+an_advanced_2022: >-
+  This paper develops an initial sizing method for a lift-plus-cruise eVTOL UAV powered by a hydrogen fuel cell and battery. The method integrates multi-mode constraint analysis, propulsion and fuel-cell sizing, transition analysis, mass iteration, and optimization, with a representative case study used to verify the sizing process.
+
+nguyen_modified_2015: >-
+  The paper proposes a modified variable-complexity modeling framework that replaces repeated correction calculations with a neural-network-based scaling model after the initial iterations. Numerical and aircraft-design studies show that the method reduces expensive high-fidelity evaluations while retaining the accuracy needed for multidisciplinary conceptual design.
+
+tyan_improving_2015: >-
+  This work extends variable-complexity modeling into a global variable-fidelity method that samples the design space and initializes the scaling relation with a radial basis function network. The approach reduces expensive high-fidelity evaluations and is demonstrated on aerodynamic design problems including airfoil optimization.
+
+nguyen_adaptive_2016: >-
+  This paper develops an adaptive multifidelity-constraint method that progressively aligns important design constraints with high-fidelity analysis while limiting computational cost. Applied to a multidisciplinary air-to-ground missile design framework, the method produces reliable optimized configurations with fewer expensive high-fidelity evaluations.
+
+nguyen_possibility-based_2015: >-
+  The study presents a possibility-based multidisciplinary optimization process for electric-powered UAV design using an integrated analysis framework and uncertainty-aware optimization. Sensitivity reduction and higher-fidelity verification are used to obtain endurance-oriented designs that account for uncertainty rather than relying only on deterministic optimum values.
+
+nguyen_repetitively_2015: >-
+  This paper introduces a repetitively enhanced neural-network surrogate method for complex engineering optimization. The surrogate is iteratively refined around candidate optima, and an application to a long-endurance UAV airfoil design demonstrates substantial computational savings while improving aerodynamic performance.
+
+nguyen_investigations_2014: >-
+  This study integrates an aerodynamic database with a tactical missile design model to support rapid conceptual configuration optimization. Sensitivity analysis reduces the design space, while higher-fidelity aerodynamic verification is used to assess the optimized body-wing-tail configuration for range, stability, and control.
+
+nguyen_efficient_2016: >-
+  The paper proposes a stall-compliance prediction process for trimmed very-light aircraft using rapid configuration generation, high-fidelity aerodynamic analysis, and calibration data. The method is applied to clean and high-lift configurations to assess certification-related stall behavior with reduced development effort.
+
+lee_enhanced_2016: >-
+  This work constructs a multi-fidelity aerodynamic model for flight analysis and simulation by combining lower-fidelity aerodynamic results with high-fidelity Navier-Stokes analysis through Kriging. Global exploration, cross-validation, and iterative sampling improve the surrogate while controlling the number of expensive high-fidelity calculations.
+
+seong_flying-wing_2020: >-
+  This study optimizes sweep, twist, static margin, and wing-planform variables to improve the longitudinal and lateral stability of a flying-wing UAV. Sensitivity analysis, aerodynamic evaluation, numerical optimization, CFD, and dynamic-stability simulation are combined to identify configurations with improved stability.
+
+kim_uav_2013: >-
+  This paper develops an integrated conceptual-design and optimization framework for UAVs with propulsion, performance, mission, weight, and stability-and-control analyses. Numerical optimization and sensitivity analysis are used to improve endurance, and the optimized configurations are compared with the baseline design.
+
+pham_numerical_2019: >-
+  This study addresses aerodynamic-database construction for flight simulation by combining multiple fidelity levels in a single surrogate model. A multi-level Kriging approach fuses lower- and higher-fidelity data, and numerical plus aerodynamic-database tests are used to evaluate accuracy and stability against conventional surrogate approaches.
