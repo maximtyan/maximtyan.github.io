@@ -58,8 +58,10 @@ GEM
       time (< 1.0)
     csl-styles (2.0.2)
       csl (~> 2.0)
-    css_parser (1.21.1)
+    css_parser (3.3.0)
       addressable
+      base64
+      ssrf_filter (~> 1.5)
     cssminify2 (2.1.0)
     csv (3.3.7)
     date (3.5.0)
@@ -217,6 +219,7 @@ GEM
     securerandom (0.4.1)
     set (1.1.2)
     singleton (0.3.0)
+    ssrf_filter (1.6.0)
     stringio (3.1.8)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
