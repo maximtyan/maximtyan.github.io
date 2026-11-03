@@ -10,23 +10,27 @@ nav_order: 3
 <!-- _pages/publications.md -->
 
 1. [**Journals**](#journals)
-2. [**Patents**](#patents)
-3. [**Conferences**](#conferences)
+2. [**Conferences**](#conferences)
+3. [**Patents**](#patents)
 
 ---
 
-## Journal Articles
+<div class="publications">
+
+<h2 id="journals">Journal Articles</h2>
 
 {% bibliography --file journal %}
 
 ---
 
-## Conference Papers
+<h2 id="conferences">Conference Papers</h2>
 
 {% bibliography --file conference %}
 
 ---
 
-## Patents
+<h2 id="patents">Patents</h2>
 
 {% bibliography --file patent %}
+
+</div>
