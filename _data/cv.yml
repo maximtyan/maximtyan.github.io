@@ -1,8 +1,8 @@
 - title: Current Position
   type: time_table
   contents:
-    - title: Associate Professor of Aerospace and Mechanical Engineering
-      institution: New Uzbekistan University
+    - title: Associate Professor
+      institution: Department of Mechanical Engineering, New Uzbekistan University
       year: ""
       location: Tashkent, Uzbekistan
 
@@ -41,6 +41,7 @@
   contents:
     - title: Associate Professor, Mechanical Engineering
       institution: New Uzbekistan University
+      department: Mechanical Engineering
       location: Uzbekistan
       year: Aug 2024 -
     - title: Assistant Professor, Aerospace Engineering
