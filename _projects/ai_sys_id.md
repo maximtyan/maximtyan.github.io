@@ -2,6 +2,8 @@
 layout: page
 title: System Identification for UAV Digital Twin
 description: funded by NewUU
+funding_source: New Uzbekistan University (NewUU)
+period: October 2025 · 3 years
 importance: 1
 category: work
 ---
