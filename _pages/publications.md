@@ -40,6 +40,11 @@ nav_order: 3
     text-align: right;
     color: var(--global-text-color);
   }
+
+  .publications a.abstract,
+  .publications div.abstract.hidden {
+    display: none !important;
+  }
 </style>
 
 <div class="publications">
@@ -67,30 +72,3 @@ nav_order: 3
 </div>
 
 </div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const fallbackAbstracts = {{ site.data.publication_abstracts | jsonify }};
-
-    Object.entries(fallbackAbstracts).forEach(function ([key, abstractText]) {
-      const entry = document.getElementById(key);
-      if (!entry || entry.querySelector('.abstract.hidden')) return;
-
-      const links = entry.querySelector('.links');
-      if (!links) return;
-
-      const button = document.createElement('a');
-      button.className = 'abstract btn btn-sm z-depth-0';
-      button.setAttribute('role', 'button');
-      button.textContent = 'Abs';
-      links.prepend(button);
-
-      const abstract = document.createElement('div');
-      abstract.className = 'abstract hidden';
-      const paragraph = document.createElement('p');
-      paragraph.textContent = abstractText;
-      abstract.appendChild(paragraph);
-      entry.appendChild(abstract);
-    });
-  });
-</script>
