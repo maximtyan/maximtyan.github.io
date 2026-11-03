@@ -18,7 +18,7 @@ nav_order: 2
   </div>
 
   {% if project.funding_source %}
-  <div class="project-card__meta">Funding: {{ project.funding_source }}</div>
+  <div class="project-card__meta">Funded by: {{ project.funding_source }}</div>
   {% elsif project.description %}
   <div class="project-card__meta">{{ project.description }}</div>
   {% endif %}

@@ -1,15 +1,12 @@
 ---
 layout: page
-title: System Identification for UAV Digital Twin
+title: AI-Driven Framework for Rapid Digital Twin Development and System Identification of Multicopter Drones
 description: funded by NewUU
 funding_source: New Uzbekistan University (NewUU)
-period: October 2025 · 3 years
+period: Jan, 2026 - Dec, 2028 (3 Years)
 importance: 1
 category: work
 ---
-
-- Start: October 2025
-- Duration: 3 years
 
 ## Plan
 
