@@ -39,23 +39,30 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Associate Professor, Mechanical Engineering
+    - title: Associate Professor
       institution: New Uzbekistan University
-      department: Mechanical Engineering
-      location: Uzbekistan
-      year: Aug 2024 -
-    - title: Assistant Professor, Aerospace Engineering
+      department: Department of Mechanical Engineering
+      location: Tashkent, Uzbekistan
+      year: Aug 2024 - Present
+
+    - title: Assistant Professor
       institution: Konkuk University
-      location: South Korea
+      department: Department of Aerospace Engineering
+      location: Seoul, South Korea
       year: Apr 2024 - Aug 2024
+
     - title: Research Professor
-      institution: Konkuk Aerospace Design Airworthiness Institute
-      location: Seoul, Korea
+      institution: Konkuk University
+      department: Konkuk Aerospace Design Airworthiness Institute (KADA)
+      location: Seoul, South Korea
       year: Sep 2017 - Mar 2024
+
     - title: Senior Researcher
-      institution: Konkuk Aerospace Design Airworthiness Institute
-      location: Seoul, Korea
+      institution: Konkuk University
+      department: Konkuk Aerospace Design Airworthiness Institute (KADA)
+      location: Seoul, South Korea
       year: Mar 2010 - Aug 2017
+
     - title: Manufacturing Engineer
       institution: Engineering Center "Muhandis Servis"
       location: Tashkent, Uzbekistan
