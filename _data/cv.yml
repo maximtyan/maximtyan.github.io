@@ -1,40 +1,21 @@
-- title: Current Position
-  type: time_table
-  contents:
-    - title: Associate Professor
-      institution: Department of Mechanical Engineering, New Uzbekistan University
-      year: ""
-      location: Tashkent, Uzbekistan
-
-- title: Personal Information
-  type: map
-  contents:
-    - name: Birth year
-      value: 1988
-    - name: Languages
-      value: |
-        Russian (Native)<br>
-        English (Fluent)<br>
-        Korean (Fluent)<br>
-        Uzbek (Elementary)
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Aerospace Engineering
+    - title: PhD in Aerospace Engineering
       institution: Konkuk University
+      department: Department of Aerospace Information Engineering (항공우주정보시스템공학과)
       year: 2015
       location: Seoul, Korea
       description:
-        - Advisor Prof. Jae-Woo Lee (이재우)
+        - Advisor Professor Jae-Woo Lee (이재우)
         - Integrated MSc-PhD program
-        - Department of Aerospace Information Engineering (항공우주정보시스템공학과)
-    - title: BSc, Aerospace Engineering
+    - title: BSc in Aerospace Engineering
       institution: Tashkent State Technical University
+      department: Aerospace Engineering
       year: 2009
       location: Tashkent, Uzbekistan
       description:
-        - Advisor Prof. Yermakova L.S. (Ермакова Л.С.)
+        - Advisor Professor Yermakova L.S. (Ермакова Л.С.)
 
 - title: Work Experience
   type: time_table
@@ -122,3 +103,15 @@
     - "Over USD 25M of total funding"
     - "Funded by European partnership programs (Eurostars, Eureka Clusters), Korean government (National Research Foundation, Ministry of Land, Infrastructure and Transport, Ministry of Education), Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)"
     - "Roles: project initiator, project manager, research team leader, researcher"
+
+- title: Languages
+  type: map
+  contents:
+    - name: Russian
+      value: Native
+    - name: English
+      value: Fluent
+    - name: Korean
+      value: Fluent
+    - name: Uzbek
+      value: Basic
