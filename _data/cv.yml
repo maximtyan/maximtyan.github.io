@@ -1,4 +1,4 @@
-- title: Maxim Tyan
+- title: Current Position
   type: time_table
   contents:
     - title: Associate Professor of Aerospace and Mechanical Engineering
@@ -74,29 +74,28 @@
 - title: Awards and Honors
   type: time_table
   contents:
-    - title: Best Paper Award
+    - title: Outstanding Paper Presentation Award (우수논문발표상)
       year: 2022
       institution: The Korean Society for Aeronautical and Space Sciences
       description: >
         Woon Jae Won, Wonkyong Kim, Maxim Tyan, and Jae-Woo Lee.  
         “Ground Load Analysis Method for eVTOL Aircraft Landing Gear”
-        (eVTOL 항공기의 착륙장치 지상하중해석 기법 연구).
-    - title: Best Paper Presentation Award (우수논문발표상)
+        (eVTOL 항공기의 착륙장치 지상하중해석 기법 연구)
+    - title: Outstanding Paper Presentation Award (우수논문발표상)
       year: 2021
       institution: The Korean Society for Aeronautical and Space Sciences
       description: >
         Jaehyun An, Zin Win Thu, Jae Lyun Lee, Youngjae Lee, Jae Seon Min, Maxim Tyan,
         Seung Hyeog Nah, and Jae-Woo Lee.  
         “Performance Operation Analysis Study on Hydrogen Fuel Cell Urban Air Mobility”
-        (수소연료전지 도심항공교통수단의 성능운용분석 연구).  
-        Presented at the 2020 KSAS Fall Conference; certificate dated July 8, 2021.
-    - title: Best Paper Award
+        (수소연료전지 도심항공교통수단의 성능운용분석 연구)
+    - title: Outstanding Paper Presentation Award (우수논문발표상)
       year: 2017
       institution: The Korean Society for Aeronautical and Space Sciences
       description: >
         Le Viet Thang Nguyen, Maxim Tyan, Nhu Van Nguyen, Sangho Kim, and Jae-Woo Lee.  
         “Development of a Validation Procedure for JSBSim Flight Dynamic Model Using Light Aircraft Flight Test Data.”
-    - title: Best Paper Award
+    - title: Outstanding Paper Presentation Award (우수논문발표상)
       year: 2016
       institution: The Korean Society for Aeronautical and Space Sciences
       description: >
@@ -105,7 +104,7 @@
     - title: Konkuk Academy Award
       institution: Konkuk University
       year: 2015
-    - title: Brain Korea 21 Scholarship
+    - title: BK21 (Brain Korea 21) Scholarship
       year: 2010–2013
 
 - title: Projects
