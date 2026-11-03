@@ -9,7 +9,7 @@ nav_order: 5
 
 <div class="teaching-page">
 
-## New Uzbekistan University
+<h2>New Uzbekistan University</h2>
 
 <div class="teaching-card">
   <div class="teaching-card__title">Computational Solid & Fluid Mechanics</div>
@@ -42,7 +42,7 @@ nav_order: 5
   <div class="teaching-card__note">Co-taught with <a href="https://heikotopol.github.io/">Prof. Heiko Topol</a></div>
 </div>
 
-## Konkuk University
+<h2>Konkuk University</h2>
 
 <div class="teaching-card teaching-card--detailed">
   <div class="teaching-card__title">Aircraft Design Project</div>
