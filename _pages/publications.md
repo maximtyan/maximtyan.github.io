@@ -16,13 +16,29 @@ nav_order: 3
 ---
 
 <style>
+  .publication-numbered {
+    counter-reset: publication-item;
+  }
+
   .publication-numbered ol.bibliography {
-    list-style: decimal;
-    padding-left: 2rem;
+    list-style: none;
+    padding-left: 0;
   }
 
   .publication-numbered ol.bibliography > li {
-    padding-left: 0.35rem;
+    counter-increment: publication-item;
+    position: relative;
+    padding-left: 2.25rem;
+  }
+
+  .publication-numbered ol.bibliography > li::before {
+    content: counter(publication-item) ".";
+    position: absolute;
+    left: 0;
+    top: 0;
+    min-width: 1.75rem;
+    text-align: right;
+    color: var(--global-text-color);
   }
 </style>
 
