@@ -91,13 +91,6 @@ nav_order: 3
       paragraph.textContent = abstractText;
       abstract.appendChild(paragraph);
       entry.appendChild(abstract);
-
-      button.addEventListener('click', function () {
-        abstract.classList.toggle('open');
-        entry.querySelectorAll('.award.hidden.open, .bibtex.hidden.open').forEach(function (el) {
-          el.classList.remove('open');
-        });
-      });
     });
   });
 </script>
