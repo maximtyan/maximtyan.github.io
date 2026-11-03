@@ -47,11 +47,16 @@ ninja.data = [{
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "projects-system-identification-for-uav-digital-twin",
-          title: 'System Identification for UAV Digital Twin',
+          section: "News",},{id: "projects-ai-driven-framework-for-rapid-digital-twin-development-and-system-identification-of-multicopter-drones",
+          title: 'AI-Driven Framework for Rapid Digital Twin Development and System Identification of Multicopter Drones...',
           description: "funded by NewUU",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai_sys_id/";
+            },},{id: "projects-research-on-data-driven-intelligent-diagnosis-technology-for-distribution-network-operation-with-high-renewable-energy-penetration",
+          title: 'Research on Data-driven Intelligent Diagnosis Technology for Distribution Network Operation with High Renewable...',
+          description: "Uzbek-China",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/uzbek_china_2026/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
