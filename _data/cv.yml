@@ -101,6 +101,14 @@
         - CFD - ANSYS Fluent, Pointwise
         - Flight Simulation - JSBSim, X-Plane, Gazebo
 
+- title: Projects and Funding
+  type: list
+  contents:
+    - "20+ international and domestic (Korean) projects"
+    - "Over USD 25M of total funding"
+    - "Funded by European partnership programs (Eurostars, Eureka Clusters), Korean government (National Research Foundation, Ministry of Land, Infrastructure and Transport, Ministry of Education), Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)"
+    - "Roles: project initiator, project manager, research team leader, researcher"
+
 - title: Awards and Honors
   type: time_table
   contents:
@@ -136,14 +144,6 @@
       year: 2015
     - title: BK21 (Brain Korea 21) Scholarship
       year: 2010–2013
-
-- title: Projects
-  type: list
-  contents:
-    - "20+ international and domestic (Korean) projects"
-    - "Over USD 25M of total funding"
-    - "Funded by European partnership programs (Eurostars, Eureka Clusters), Korean government (National Research Foundation, Ministry of Land, Infrastructure and Transport, Ministry of Education), Private companies (Hyundai MC, Hanwha, LIG-Nex1, KAI)"
-    - "Roles: project initiator, project manager, research team leader, researcher"
 
 - title: Languages
   type: map
