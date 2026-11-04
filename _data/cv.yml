@@ -50,15 +50,56 @@
       year: Jan 2007 - Feb 2010
 
 - title: Research Interests
-  type: list
+  type: nested_list
   contents:
-    - Multidisciplinary Design Optimization
-    - Design under uncertainties
-    - Surrogate based optimization, sampling methods
-    - Aircraft design (electric, hydrogen powered, general aviation, eVTOL, UAV, UAM)
-    - Aircraft digital twin, flight simulation and control
-    - Software development (Python, C, C++, Matlab, VBA)
-    - Software integration and automation (CAD, CFD, Simulation and Control)
+    - title: Sustainable Aviation
+      items:
+        - Electric and Hydrogen-Powered Aircraft Systems Design and Operations
+
+    - title: Flight Dynamics and Simulation
+      items:
+        - Fixed-Wing and Multicopter Flight Dynamics Modeling
+        - System Identification
+        - Simulation Database Generation
+
+    - title: Surrogate Modeling
+      items:
+        - Sampling Methods
+        - Variable-Fidelity Modeling
+        - Surrogate-Based Optimization
+
+- title: Technical Expertise
+  type: nested_list
+  contents:
+    - title: Aircraft Design and Development
+      items:
+        - Aircraft Sizing, Conceptual and Preliminary Design
+        - Airworthiness and Certification (Part 23)
+        - General Aviation Aircraft
+        - Advanced Air Mobility (eVTOL, UAM, RAM)
+        - Electric and Hydrogen Propulsion Systems
+
+    - title: Design Optimization
+      items:
+        - Multidisciplinary Design Optimization
+        - Surrogate-Based Optimization
+        - Design Optimization Under Uncertainties
+        - Variable-Fidelity Optimization
+
+    - title: Software Development and Integration
+      items:
+        - Aircraft Analysis, Design and Optimization Software
+        - Flight Simulation Software Development
+        - Engineering Workflow Automation
+        - CAD, CFD and Simulation Software Integration
+        - Simulation Interface Development (Unity, MAVLink)
+        - Python, C, C++, MATLAB, VBA
+
+    - title: Engineering Software
+      items:
+        - CAD - CATIA (Advanced Surface Modeling)
+        - CFD - ANSYS Fluent, Pointwise
+        - Flight Simulation - JSBSim, X-Plane, Gazebo
 
 - title: Awards and Honors
   type: time_table
